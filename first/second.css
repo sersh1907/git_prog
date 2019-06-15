@@ -1,0 +1,12 @@
+#p1, .a{
+    margin-left: 2em;
+    margin-right: 2em;
+    color: blue;
+    border: 2px;
+    }
+#p2, .b{
+    margin-left: 3em;
+    margin-right: 3em;
+    color: red;
+    border: none;
+    }
